@@ -4,31 +4,45 @@
 
 # 🧬 Karyon MK III
 
-**Interactive Amino Acid Synthesizer**
+### *Interactive Amino Acid Synthesizer*
+
+> An interactive HTML simulator demonstrating protein translation through ribosome movement, mRNA decoding, tRNA recognition, and polypeptide chain synthesis.
+
+**🧬 Protein Translation · 🧪 Codon Recognition · 🧫 Polypeptide Synthesis**
 
 ---
 
-### 📖 Overview
-An interactive HTML simulator demonstrating protein translation through ribosome movement, mRNA decoding, tRNA recognition, and polypeptide chain synthesis.
+## ✦ Features
 
-### ✨ Features
-- Ribosome Translocation
-- Codon–Anticodon Recognition
-- tRNA Selection
-- Polypeptide Chain Elongation
-- Interactive Translation Controls
+**🧬 Ribosome Translocation**  
+Visualize ribosome movement along the mRNA strand.
+
+**🧪 Codon–Anticodon Recognition**  
+Explore complementary pairing between mRNA codons and tRNA anticodons.
+
+**🔬 tRNA Selection**  
+Observe tRNA recognition and amino acid delivery during translation.
+
+**🧬 Polypeptide Chain Elongation**  
+Visualize the progressive formation of the growing polypeptide chain.
+
+**🎮 Interactive Translation Controls**  
+Control and observe the progression of protein synthesis.
 
 ---
 
-### 📜 License
-GPL-3.0
+## 🧬 Core Concepts
 
-### 👨‍🏫 Author
-**Draven-Ashcroft** | DIPS Chain of Institutions, Tanda
+**mRNA · Codons · Anticodons · tRNA · Ribosome · Translation · Polypeptide Elongation**
 
 ---
 
-### 🙏 Credits
-**Claude:** Code Architecture  
-**Replit:** Debugging & Enhancement  
-**OpenAI:** Debugging & Prompt Refinement
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+---
+
+## 📜 License
+
+**GNU General Public License v3.0 (GPL-3.0)**

@@ -8,7 +8,7 @@
 
 > **Karyon MK III** is an interactive visualization exploring **protein translation, codon decoding, tRNA recognition, and polypeptide synthesis**.
 >
-> 🧬 **Protein Translation** · 🧪 **Codon Recognition** · 🧫 **Polypeptide Synthesis**
+🧬 **Protein Translation** · 🧪 **Codon Recognition** · 🧫 **Polypeptide Synthesis**
 
 **🔬 [Explore the Simulation](https://karyon-mk-iii.dray-ashcroft.workers.dev/)**
 

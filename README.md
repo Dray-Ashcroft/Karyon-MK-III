@@ -10,7 +10,7 @@
 >
 > 🧬 **Protein Translation** · 🧪 **Codon Recognition** · 🧫 **Polypeptide Synthesis**
 
-**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
+**🔬 [Explore the Simulation](https://karyon-mk-iii.dray-ashcroft.workers.dev/)**
 
 ---
 
